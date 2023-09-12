@@ -1,13 +1,13 @@
 protobuf==3.20.1
 tensorflow==2.8.1
-keras
+keras==2.8.0
 numpy
 scipy
 pandas
 matplotlib
 scikit_learn
 tqdm
-sklearn
+scikit-learn
 pybtex
 h5py
 pydot 
